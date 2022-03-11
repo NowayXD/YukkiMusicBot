@@ -134,7 +134,7 @@ class TeleAPI:
                 completed_size = convert_bytes(current)
                 speed = convert_bytes(speed)
                 text = f"""
-**{MUSIC_BOT_NAME} Telegram Media Downloader**
+**PyTgMusic Telegram Media Downloader**
 
 **Total FileSize:** {total_size}
 **Completed:** {completed_size} 
